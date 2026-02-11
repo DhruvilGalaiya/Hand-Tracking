@@ -33,3 +33,5 @@ Here is what each file in this project does:
     ```bash
     python VolumeControl.py
     ```
+## Important Note ##
+Make sure to run this project on python version "3.9".
